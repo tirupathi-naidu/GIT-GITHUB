@@ -35,4 +35,20 @@ git reset file # to bring brack from stage to unstage
 
 git reset # to bring all files to unstage
 
+git pull # pull from origin to local
+
+git push # from local to origin
+
+git branch # shows list of all branches
+
+git branch branchname # creates a new branch
+
+git checkout branchname # to switch between branches
+
+git branch -d branchname # to delete a branch
+
+git diff # to see differnce bn two branches
+
+git status # to see statuss of files
+
 
