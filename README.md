@@ -35,4 +35,6 @@ git reset file # to bring brack from stage to unstage
 
 git reset # to bring all files to unstage
 
+git remote add origin https # adding local reo to cloud
+
 
